@@ -1,0 +1,2 @@
+# magesture
+Welcome to the Magesture! This game uses webcam hand gestures as controllers to cast spells in a magical fighting arena. The project aims to provide a unique gaming experience that leverages basic webcam technology, making it accessible and affordable for all players.
